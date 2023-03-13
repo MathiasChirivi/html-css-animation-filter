@@ -62,12 +62,12 @@
 .ex-8-img{
     transition: 2s;
 }
-/*Esercizio9*/
+
 .ex-8-img:hover{
     border-radius: 10%;
     filter: grayscale(70%) sepia(20%);
 }
-
+/*Esercizio9*/
 .ex-9-img{
     transition: 2s;
 }
